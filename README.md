@@ -14,7 +14,10 @@ I am Sanghamitra Choudhuri, currently a final year student from Sathyabama Insti
 ### 👯 I’m looking to collaborate on 
 . Open source
 . Data Analysis and Mining projects
-- 🤔 I’m looking for help with ...
+
+### 🤔 I’m looking for help with 
+. Machine Learning
+
 ### 💬 Ask me about 
 . Anything :) I will try to help you out
 
