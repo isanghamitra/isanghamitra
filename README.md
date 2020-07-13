@@ -1,7 +1,5 @@
 ### Hi there 👋
 I am Sanghamitra Choudhuri, currently a final year student from Sathyabama Institute of Science and Technology. I am pursuing Bachelors of Engineering in the stream Electronics and Communication.
-<!--
-**isanghamitra/isanghamitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 ### 🔭 I’m currently working on 
 . Data Analysis
@@ -24,7 +22,3 @@ I am Sanghamitra Choudhuri, currently a final year student from Sathyabama Insti
 . https://www.linkedin.com/in/isanghamitra (I am pretty much active over there, feel free to connect)
 . https://www.stackoverflow.com/sanghamitra-choudhuri
 . https://www.github.com/isanghamitra
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
