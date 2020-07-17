@@ -1,7 +1,7 @@
 <h1 align="center">नमस्ते👏🏻 I'm Sanghamitra Choudhuri</h1>
 <h3 align="center">A passionate technology enthusiast, currently in my final year of UG pursuing Bachelor's in Electronics and Communication</h3>
 
-- 🔭 I’m currently working on my Data Science skills (https://www.github.com/isanghamitra/100-Days-of-Code)
+- 🔭 I’m currently working on my **Data Science** skills (https://www.github.com/isanghamitra/100-Days-of-Code)
 
 - 👯 I’m looking to collaborate on **Open Source Projects related to Data Analysis and Visualization**
 
