@@ -9,14 +9,14 @@
 
 - 👩‍💻 My **skills** are down here 👇
 
-<p align="lcenter"><img src=https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg alt=c width="20" height="20"/> <img                   src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=cplusplus width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/></p><p align="center"></p>
+<p align="center"><img src=https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg alt=c width="20" height="20"/> <img                   src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=cplusplus width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/></p><p align="center"></p>
 
 - 💬 Ask me about **Data Analysis and Visualization**
 
 - 📫 How to reach me **sanghamitrachoudhuri405@gmail.com**
 
 - ⚡ Fun fact **Spongebob Squarepants was basically called Spongeboy, did you know that?** 
-<img src= https://bit.ly/3j9HOlg alt=c width="20" height="20"/>
+<img src= https://hype.my/wp-content/uploads/2015/02/SpongeBob-SquarePants-Fun-Facts.jpg alt=c width="20" height="20"/>
 
 
 <p align="center">
