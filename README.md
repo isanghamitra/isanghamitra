@@ -16,7 +16,8 @@
 - 📫 How to reach me **sanghamitrachoudhuri405@gmail.com**
 
 - ⚡ Fun fact **Spongebob Squarepants was basically called Spongeboy, did you know that?** 
-<img src= https://hype.my/wp-content/uploads/2015/02/SpongeBob-SquarePants-Fun-Facts.jpg alt=c width="283" height="216.75"/>
+<p align="center">
+<img src= https://hype.my/wp-content/uploads/2015/02/SpongeBob-SquarePants-Fun-Facts.jpg alt=c width="283" height="216.75"/> </p>
 
 
 <p align="center">
