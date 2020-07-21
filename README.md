@@ -29,4 +29,4 @@
 <a href=https://instagram.com/@_sangha_mitra target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@_sangha_mitra" height="20" width="20" /></a>
 </p>
 
-![Sanghamitra's github stats](https://github-readme-stats.vercel.app/api?username=isanghamitra&show_icons=true&theme=tokyonight)(https://github.com/isanghamitra/github-readme-stats)
+![Sanghamitra's github stats](https://github-readme-stats.vercel.app/api?username=isanghamitra&show_icons=true&theme=tokyonight)
