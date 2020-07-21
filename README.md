@@ -1,6 +1,7 @@
 <h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sanghamitra
 <h3 align="center">So, who am I? 🤔</h3>
-<h4 align="center"> Intern @ Sapio Analytica | IEEE SBU Chairman | Data Science and Blockchain Enthusiast </h4>
+<h4 align="center"> Intern @ Sapio Analyttica | Progate Community Volunteer | IEEE SBU Chairman | Data Science and Blockchain Enthusiast </h4>
+  
 
 - 🔭 I’m currently working on my **Data Science** skills (https://www.github.com/isanghamitra/100-Days-of-Code)
 
