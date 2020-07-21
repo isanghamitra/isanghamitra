@@ -2,7 +2,7 @@
 <h3 align="center">So, who am I? 🤔</h3>
 <h4 align="center"> Intern @ Sapio Analyttica </h4>
 <h4 align="center"> Progate Community Volunteer <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> </h4>
-<h4 align="center" Chairman of IEEE Student Branch (Sathyabama)> <imc src="https://cdn.dribbble.com/users/3601145/screenshots/6494741/ezgif.com-crop__1_.gif"></h4>
+<h4 align="center"> Chairman of IEEE Student Branch (Sathyabama) <imc src="https://cdn.dribbble.com/users/3601145/screenshots/6494741/ezgif.com-crop__1_.gif"></h4>
   
 
 - 🔭 I’m currently working on my **Data Science** skills (https://www.github.com/isanghamitra/100-Days-of-Code)
