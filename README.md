@@ -1,5 +1,4 @@
-<style> name:hover { color: blue;}</style>
-<h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> class="name" I'm Sanghamitra
+<h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sanghamitra
 <h3 align="center">So, who am I? 🤔</h3>
 <h4 align="center"> Intern @ Sapio Analyttica | Progate Community Volunteer <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> | Chairman of IEEE Student Branch (Sathyabama) | Data Science enthusiast</h4>
   
