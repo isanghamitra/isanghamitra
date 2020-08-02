@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Analysis | Data Visualization | Blockchain**
 
-- <img src="https://darkroom.contagious.com/1380/9086a39ef6034833b53969627a027179:5c8d9bd2210c95e89e79720e3fcf3335/mailchimp.png" width="35" height="35">I can be reached over <a href= "sanghamitrachoudhuri405@gmail.com"> EMAIL</a> here
+- I can be reached over mail here sanghamitrachoudhuri405@gmail.com
 
 - ⚡ Fun fact: **Spongebob Squarepants was basically called Spongeboy, did you know that?** 
 <p align="center"><img src= https://hype.my/wp-content/uploads/2015/02/SpongeBob-SquarePants-Fun-Facts.jpg alt=c width="283" height="216.75"/> </p>
