@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **Data Science** skills (https://www.github.com/isanghamitra/100-Days-of-Code)
 
-- 👯 I’m looking to collaborate on <img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033"> **Data Analysis and Visualization projects**
+- 👯 I’m looking to collaborate on  <img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033">  **Data Analysis and Visualization projects**
 
 - 🤔 I’m looking for help with **mentorship for Machine Learning**
 
