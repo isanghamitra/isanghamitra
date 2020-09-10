@@ -10,12 +10,12 @@
 
 - 👩‍💻 My **skills** are 👇
 
-<p align="center"><img src=https://as2.ftcdn.net/jpg/01/23/79/91/500_F_123799116_Onhj4glsMUYtD8XkA9FJSzAMV7zfiI0w.jpg alt=c width="20" height="20"/> 
-<img src= https://image.flaticon.com/icons/svg/28/28778.svg width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="20" height="20"/> 
-<img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/>
-<img src=https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="20" height="20"/>
-<img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="20" height="20"/>
-<img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/></p><p align="center"></p>
+<p align="center"><img src=https://as2.ftcdn.net/jpg/01/23/79/91/500_F_123799116_Onhj4glsMUYtD8XkA9FJSzAMV7zfiI0w.jpg alt=c width="30" height="30"/> 
+<img src= https://image.flaticon.com/icons/svg/28/28778.svg width="30" height="30"/>
+<img src= https://image.flaticon.com/icons/svg/3143/3143513.svg alt=css3 width="30" height="30"/> 
+<img src= https://image.flaticon.com/icons/svg/888/888859.svg alt=html5 width="30" height="30"/>
+<img src= https://image.flaticon.com/icons/svg/474/474933.svg alt=mysql width="30" height="30"/>
+<img src= https://image.flaticon.com/icons/svg/2721/2721287.svg width="30" height="30"/></p><p align="center"></p>
 
 - 💬 Ask me about **Data Analysis | Data Visualization | Blockchain**
 
