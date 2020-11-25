@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Data Visualization | CMOS VLSI | Artificial Neural Networks**
 
-<p align="center"><img src="https://www.sandraseasycooking.com/wp-content/uploads/2019/03/contact-me.jpg" width="70" height="30"></p>
+<p align="center"><img src="https://www.sandraseasycooking.com/wp-content/uploads/2019/03/contact-me.jpg" width="150" height="50"></p>
 
 
 <p align="center">
