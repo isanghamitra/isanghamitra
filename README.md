@@ -3,9 +3,9 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=isanghamitra alt=isanghamitra/></p>
 
-  
+<oode> git commit -m "I am a budding software engineer"
 
-- 🔭 I’m currently working on **VLSI** skills 
+- 🔭 I’m currently working on my **VLSI** skills 
 
 - 👯 I’m looking to contribute to <img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033">
 
@@ -19,8 +19,6 @@
 <img src= https://image.flaticon.com/icons/svg/2721/2721287.svg width="30" height="30" padding-left="20"/></p><p align="center"></p>
 
 - 💬 Ask me about **Data Visualization | CMOS VLSI | Artificial Neural Networks**
-
-- I can be reached over mail here sanghamitrachoudhuri405@gmail.com
 
 <p align="center"><img src= https://hype.my/wp-content/uploads/2015/02/SpongeBob-SquarePants-Fun-Facts.jpg alt=c width="283" height="216.75"/> </p>
 
