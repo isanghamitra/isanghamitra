@@ -7,11 +7,9 @@
 
 <code>"I am currently working on **VLSI**"</code>
 
-<code>"Hello, I am a budding software engineer"</code>
+<code>"I’m looking to contribute to < img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033">"</code>
 
-- 👯 I’m looking to contribute to <img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033">
-
-- 👩‍💻 My **skills** are 👇
+<code>"My **skills** are 👇"</code>
 
 <p align="center"><img src=https://as2.ftcdn.net/jpg/01/23/79/91/500_F_123799116_Onhj4glsMUYtD8XkA9FJSzAMV7zfiI0w.jpg alt=c width="30" height="30" padding-left="20"/> 
 <img src= https://image.flaticon.com/icons/svg/28/28778.svg width="30" height="30" padding-left="20"/>
