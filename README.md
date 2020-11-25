@@ -4,6 +4,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=isanghamitra alt=isanghamitra/></p>
 
 <oode>git commit -m "I am a budding software engineer"</code>
+<code>git commit -m "Hello, I'm a Software Engineering Associate at [Amdocs](https://www.amdocs.com/)"</code>
 
 - 🔭 I’m currently working on my **VLSI** skills 
 
