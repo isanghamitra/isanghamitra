@@ -3,7 +3,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=isanghamitra alt=isanghamitra/></p>
 
-<oode>git commit -m "I am a budding software engineer" </code>
+<oode>git commit -m "I am a budding software engineer"</code>
 
 - 🔭 I’m currently working on my **VLSI** skills 
 
