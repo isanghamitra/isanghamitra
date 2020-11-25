@@ -7,7 +7,7 @@
 
 <code>"I am currently working on **VLSI**"</code>
 
-<code>"I’m looking to contribute to</code>< img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033">"
+<code>"I’m looking to contribute to</code>< img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033">
 
 <code>"My **skills** are 👇"</code>
 
