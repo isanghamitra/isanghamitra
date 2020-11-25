@@ -1,17 +1,13 @@
 <h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sanghamitra</h1>
-<h3 align="center"> Data Analyst @ Sapio Analytics | Data Science Intern @ The Sparks Foundation | Progate Community Volunteer <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> | Chairman of IEEE Student Branch (Sathyabama) | Data Science enthusiast</h3>
+<h3 align="center"> Chairman of IEEE Student Branch (Sathyabama)</h3>
 
-
-## :rainbow: Hey Visitor
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=isanghamitra alt=isanghamitra/></p>
 
   
 
-- 🔭 I’m currently working on my **Data Science** skills (https://www.github.com/isanghamitra/100-Days-of-Code)
+- 🔭 I’m currently working on **VLSI** skills 
 
-- 👯 I’m looking to collaborate on  <img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033">  **Data Analysis and Visualization projects**
-
-- 🤔 I’m looking for help with **mentorship for Machine Learning**
+- 👯 I’m looking to contribute to <img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033">
 
 - 👩‍💻 My **skills** are 👇
 
@@ -22,11 +18,10 @@
 <img src= https://image.flaticon.com/icons/svg/474/474933.svg alt=mysql width="30" height="30" padding-left="20"/>
 <img src= https://image.flaticon.com/icons/svg/2721/2721287.svg width="30" height="30" padding-left="20"/></p><p align="center"></p>
 
-- 💬 Ask me about **Data Analysis | Data Visualization | Blockchain**
+- 💬 Ask me about **Data Visualization | CMOS VLSI | Artificial Neural Networks**
 
 - I can be reached over mail here sanghamitrachoudhuri405@gmail.com
 
-- ⚡ Fun fact: **Spongebob Squarepants was basically called Spongeboy, did you know that?** 
 <p align="center"><img src= https://hype.my/wp-content/uploads/2015/02/SpongeBob-SquarePants-Fun-Facts.jpg alt=c width="283" height="216.75"/> </p>
 
 
