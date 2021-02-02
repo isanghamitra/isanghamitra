@@ -1,9 +1,9 @@
 <h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sanghamitra</h1>
-<h3 align="center"> Chairman of IEEE Student Branch (Sathyabama)</h3>
+
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=isanghamitra alt=isanghamitra/></p>
 
-<p align="center"><code>"Hello, I am a budding software engineer"</code></p>
+<p align="center"><code>"Hello, I am a budding engineer"</code></p>
 
 <p align="center"><code>"I am currently working on **VLSI**"</code></p>
 
