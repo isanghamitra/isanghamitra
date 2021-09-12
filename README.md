@@ -1,28 +1,5 @@
 <h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sanghamitra</h1>
 
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=isanghamitra alt=isanghamitra/></p>
-
-<p align="center"><code>"Hello, I am a budding engineer"</code></p>
-
-<p align="center"><code>"I am currently working on **VLSI**"</code></p>
-
-<p align="center"><code>"I’m looking to contribute to</code> <img src="https://camo.githubusercontent.com/dfc526927e2f10e47eafba73803d17bb6c551bfe/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033"></p>
-
-<p align="center"><code>"My **skills** are 👇"</code></p>
-
-<p align="center"><img src=https://as2.ftcdn.net/jpg/01/23/79/91/500_F_123799116_Onhj4glsMUYtD8XkA9FJSzAMV7zfiI0w.jpg alt=c width="30" height="30" padding-left="20"/> 
-<img src= https://image.flaticon.com/icons/svg/28/28778.svg width="30" height="30" padding-left="20"/>
-<img src= https://image.flaticon.com/icons/svg/3143/3143513.svg alt=css3 width="30" height="30" padding-left="20"/> 
-<img src= https://image.flaticon.com/icons/svg/888/888859.svg alt=html5 width="30" height="30" padding-left="20"/>
-<img src= https://image.flaticon.com/icons/svg/474/474933.svg alt=mysql width="30" height="30" padding-left="20"/>
-<img src= https://image.flaticon.com/icons/svg/2721/2721287.svg width="30" height="30" padding-left="20"/></p><p align="center"></p>
-
-- 💬 Ask me about **Data Visualization | CMOS VLSI | Artificial Neural Networks**
-
-<p align="center"><img src="https://www.sandraseasycooking.com/wp-content/uploads/2019/03/contact-me.jpg" width="150" height="50"></p>
-
-
 <p align="center">
 <a href=https://codepen.io/https://codepen.io/isanghamitra target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="https://codepen.io/isanghamitra" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/https://www.linkedin.com/in/isanghamitra target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/isanghamitra" height="20" width="20" /></a>
